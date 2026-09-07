@@ -1,7 +1,7 @@
 ﻿namespace AdaptiveNetwork.Geometry.Core.Qualities
 {
     /// <summary>
-    /// Defines a method for determining whether two objects are almost equal, allowing for a specified tolerance in the comparison.
+    /// Defines a method for determining whether two objects are equal within a distance tolerance. This interface is intended for use with types that require a custom equality comparison that takes into account a specified tolerance value.
     /// </summary>
     /// <typeparam name="TIn">The type of the objects to compare.</typeparam>
     public interface IEquatableWithinTolerance<in TIn>
