@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="AdaptiveNetwork.Geometry.Core/AdaptiveNetwork.Geometry.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="AdaptiveNetwork.Geometry.Core.Tests/AdaptiveNetwork.Geometry.Core.Tests.csproj" Id="a0a5e024-9a1b-4b23-b007-95949a1ce6e4" />
+  </Folder>
+</Solution>
