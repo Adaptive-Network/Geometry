@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="AdaptiveNetwork.Geometry.Core/AdaptiveNetwork.Geometry.Core.csproj" />
+    <Project Path="AdaptiveNetwork.Geometry.Speckle/AdaptiveNetwork.Geometry.Speckle.csproj" Id="7e88623d-ffb9-4279-bc10-8f1bb7b6dd04" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="AdaptiveNetwork.Geometry.Core.Tests/AdaptiveNetwork.Geometry.Core.Tests.csproj" Id="a0a5e024-9a1b-4b23-b007-95949a1ce6e4" />

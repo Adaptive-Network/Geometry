@@ -7,7 +7,7 @@ namespace AdaptiveNetwork.Geometry.Core.Types
     /// <summary>
     /// Represents a line segment in 3D space defined by two points: a starting point and an ending point.
     /// </summary>
-    public sealed class LineSegment3D : IEquatableWithinTolerance<LineSegment3D>, ITranslatable<LineSegment3D>, IRotatable<LineSegment3D>
+    public sealed class LineSegment3D : IEquatableWithinTolerance<LineSegment3D>, ITranslatable<LineSegment3D>, IRotatable<LineSegment3D>, IGeometry
     {
         /// <summary>
         /// Gets the starting point of the line segment in 3D space.

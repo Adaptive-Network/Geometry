@@ -7,7 +7,7 @@ namespace AdaptiveNetwork.Geometry.Core.Types
     /// <summary>
     /// Represents a three-dimensional point with double precision coordinates.
     /// </summary>
-    public struct Point3D : IEquatableWithinTolerance<Point3D>, IEquatableWithinTolerance<Vector3D>, ITranslatable<Point3D>
+    public struct Point3D : IEquatableWithinTolerance<Point3D>, IEquatableWithinTolerance<Vector3D>, ITranslatable<Point3D>, IGeometry
     {
         /// <summary>
         /// Gets the X coordinate of the point.

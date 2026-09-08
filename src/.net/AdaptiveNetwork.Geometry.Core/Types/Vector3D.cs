@@ -7,7 +7,7 @@ namespace AdaptiveNetwork.Geometry.Core.Types
     /// <summary>
     /// Represents a three-dimensional vector with double precision components.
     /// </summary>
-    public struct Vector3D : IEquatableWithinTolerance<Vector3D>, IEquatableWithinTolerance<Point3D>
+    public struct Vector3D : IEquatableWithinTolerance<Vector3D>, IEquatableWithinTolerance<Point3D>, IGeometry
     {
         /// <summary>
         /// Gets the X component of the vector.
